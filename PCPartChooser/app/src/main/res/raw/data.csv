@@ -1,0 +1,51 @@
+Name,Category,Price,Date,Field1,Field2,Field3,Field4
+AMD Ryzen 5 3600,CPU,348.99,070719,Clock Speed: Base 3.6GHz; Boost 4.2GHz,CPU Family: Ryzen 5,Number of Cores: 6,Thread Count: 12
+AMD Ryzen 5 5600X,CPU,529,051120,Clock Speed: Base 3.7GHz; Boost 4.6GHz,CPU Family: Ryzen 5,Number of Cores: 6,Thread Count: 12
+AMD Ryzen 7 3700X,CPU,549,070719,Clock Speed: Base 3.6GHz; Boost 4.4GHz,CPU Family: Ryzen 7,Number of Cores: 8,Thread Count: 16
+AMD Ryzen 7 5800X,CPU,775,051120,Clock Speed: Base 3.8GHz; Boost 4.7GHz,CPU Family: Ryzen 7,Number of Cores: 8,Thread Count: 16
+AMD Ryzen 9 5900X,CPU,959,051120,Clock Speed: Base 3.7GHz; Boost 4.8GHz,CPU Family: Ryzen 9,Number of Cores: 12,Thread Count: 24
+Intel Comet Lake Core i3 10105F,CPU,148.99,160321,Clock Speed: Base 3.7GHz; Boost 4.4GHz,CPU Family: Intel i3,Number of Cores: 4,Thread Count: 8
+Intel Coffee Lake Core i5 9400F,CPU,235.75,070119,Clock Speed: Base 2.9GHz; Boost 4.1GHz,CPU Family: Intel i5,Number of Cores: 6,Thread Count: 6
+Intel Comet Lake Core i5 10400,CPU,278.99,010420,Clock Speed: Base 2.9GHz; Boost 4.3GHz,CPU Family: Intel i5,Number of Cores: 6,Thread Count: 12
+Intel Comet Lake Core i7 10700,CPU,464.99,300420,Clock Speed: Base 2.9GHz; Boost 4.8GHz,CPU Family: Intel i7,Number of Cores: 8,Thread Count: 16
+Intel Rocket Lake Core i9 11900K,CPU,914,160321,Clock Speed: Base 3.5 GHz; Boost 5.3GHz,CPU Family: Intel i9,Number of Cores: 8,Thread Count: 16
+Powercolor Red Devil AMD Radeon RX 6700 XT,GPU,1498.99,170321,Display Ports: 3,Clock Speed: 2622MHz,Video Memory Size: 12GB,Card Length: 320mm
+Sapphire Nitro AMD Radeon RX 6700 XT,GPU,1498.99,170321,Display Ports: 3,Clock Speed: 2622MHz,Video Memory Size: 12GB,Card Length: 310mm
+ASRock AMD Radeon Phantom Gaming RX 6700 XT,GPU,1368.99,180321,Display Ports: 3,Clock Speed: 2622MHz,Video Memory Size: 12GB,Card Length: 305mm
+Powercolor Red Devil AMD Radeon RX 6900 XT,GPU,2499,130421,Display Ports: 3,Clock Speed: 2340MHz,Video Memory Size: 16GB,Card Length: 320mm
+Gigabyte AMD Radeon RX 6900 XT,GPU,3498.99,250121,Display Ports: 2,Clock Speed: 2285MHz,Video Memory Size: 16GB,Card Length: 286mm
+Nvidia Gigabyte GeForce GT 1030,GPU,199,170517,Display Ports: 0,Clock Speed: 1152MHz,Video Memory Size: 2GB,Card Length: 150mm
+Nvidia Gigabyte Geforce RTX 3080,GPU,2398.99,170920,Display Ports: 3,Clock Speed: 1800MHz,Video Memory Size: 10GB,Card Length: 320mm
+Nvidia Gigabyte Geforce RTX 3090,GPU,3848.99,240921,Display Ports: 3,Clock Speed: 1755MHz,Video Memory Size: 24GB,Card Length: 320mm
+Nvidia ASUS TUF Geforce RTX 3070,GPU,1848.99,291021,Display Ports: 3,Clock Speed: 1845MHz,Video Memory Size: 8GB,Card Length: 300mm
+Nvidia ASUS ROG Strix Geforce RTX 3090 White,GPU,4199,211220,Display Ports: 3,Clock Speed: 1890MHz,Video Memory Size: 24GB,Card Length: 312mm
+ASRock B450M,Motherboard,199.94,210219,PCIE x16 Slots: 2,Socket: AMD AM4,Chipset: AMD B450,Form Factor: mATX
+ASRock H510M,Motherboard,171.35,010221,PCIE x16 Slots: 1,Socket: Intel LGA1200,Chipset: Intel H510,Form Factor: mITX
+ASRock B550 Phantom Gaming,Motherboard,249,160720,PCIE x16 Slots: 2,Socket: AMD AM4,Chipset: AMD B550,Form Factor: ATX
+ASUS ROG Strix Z590-E,Motherboard,584.99,140121,PCIE x16 Slots: 3,Socket: Intel LGA1200,Chipset: Intel Z590,Form Factor: ATX
+ASUS Prime B460M-A,Motherboard,159,270520,PCIE x16 Slots: 1,Socket: Intel LGA1200,Chipset: Intel B460,Form Factor: mATX
+ASUS ROG Strix B550-A,Motherboard,264.99,160620,PCIE x16 Slots: 2,Socket: AMD AM4,Chipset: AMD B550,Form Factor: ATX
+ASUS TUF X570-PLUS,Motherboard,365,010719,PCIE x16 Slots: 2,Socket: AMD AM4,Chipset: AMD X570,Form Factor: ATX
+Gigabyte B560M DS3H,Motherboard,208.99,190421,PCIE x16 Slots: 1,Socket: Intel LGA1200,Chipset: Intel B560,Form Factor: mATX
+Gigabyte H470 HD3,Motherboard,239.91,300520,PCIE x16 Slots: 2,Socket: Intel LGA1200,Chipset: Intel H470,Form Factor: ATX
+Gigabyte X570 AORUS Elite,Motherboard,429.94,070719,PCIE x16 Slots: 1,Socket: AMD AM4,Chipset: AMD X570,Form Factor: ATX
+HyperX Fury 16GB RAM,Memory,159,190819,Memory Speed: 3200MHz,Memory Type: DDR4,Memory Capacity: 16GB (2 x 8GB),Form Factor: DIMM
+HyperX Fury 32GB RAM,Memory,309.99,190819,Memory Speed: 3200MHz,Memory Type: DDR4,Memory Capacity: 32GB (2 x 16GB),Form Factor: DIMM
+PNY XLR8 RGB 16GB RAM,Memory,194.35,160620,Memory Speed: 3200MHz,Memory Type: DDR4,Memory Capacity: 16GB (2 x 8GB),Form Factor: DIMM
+PNY XLR8 16GB RAM,Memory,136.85,160620,Memory Speed: 2666MHz,Memory Type: DDR4,Memory Capacity: 16GB (2 x 8GB),Form Factor: DIMM
+GSKILL Ripjaws V series 16GB RAM,Memory,157.5,220915,Memory Speed: 3200MHz,Memory Type: DDR4,Memory Capacity: 16GB (2 x 8GB),Form Factor: DIMM
+GSKILL Trident Z RGB 16GB RAM,Memory,214.99,250217,Memory Speed: 3200MHz,Memory Type: DDR4,Memory Capacity: 16GB (2 x 8GB),Form Factor: DIMM
+GSKILL Trident Z RGB 32GB RAM,Memory,394.99,021118,Memory Speed: 3200MHz,Memory Type: DDR4,Memory Capacity: 32GB (2 x16GB),Form Factor: DIMM
+Corsair Vengeance 16GB RAM,Memory,194.35,130715,Memory Speed: 3200MHz,Memory Type: DDR4,Memory Capacity: 16GB (2 x 8GB),Form Factor: DIMM
+Corsair Vengeance RGB Pro SL White 32GB RAM,Memory,409,210121,Memory Speed: 3600MHz,Memory Type: DDR4,Memory Capacity: 32GB (2 x 16GB),Form Factor: DIMM
+Crucial 8GB RAM,Memory,77.96,010620,Memory Speed: 2400MHz,Memory Type: DDR4,Memory Capacity: 8GB (1 x 8GB),Form Factor: DIMM
+Samsung 980 Pro 1TB SSD,Storage,348.99,220920,Capacity: 1TB,Connection Type: PCIe NVMe,Read/Write Speed: 7000/5000 MBps,Form Factor: M.2
+Samsung 970 EVO 500GB SSD,Storage,132.25,100219,Capacity: 500GB,Connection Type: PCIe NVMe,Read/Write Speed: 3400/2300 MBps,Form Factor: M.2
+Samsung 870 EVO 500GB SSD,Storage,109,180121,Capacity: 500GB,Connection Type: SATA3,Read/Write Speed: 560/530 MBps,Form Factor: 2.5 inch
+Crucial BX500 240GB SSD,Storage,67.85,280818,Capacity: 240GB,Connection Type: SATA3,Read/Write Speed: 540/500 MBps,Form Factor: 2.5 inch
+Crucial BX500 1TB SSD,Storage,168.99,241019,Capacity: 1TB,Connection Type: SATA,Read/Write Speed: 540/500 MBps,Form Factor: 2.5 inch
+Crucial P2 500GB SSD,Storage,109.25,070420,Capacity: 500GB,Connection Type: PCIe NVMe,Read/Write Speed: 2200/930 MBps,Form Factor: M.2
+Seagate BarraCuda 2TB internal HDD,Storage,102.35,030918,Capacity: 2TB,Connection Type: SATA3,Read/Write Speed: 7200RPM,Form Factor: 3.5 inch
+Seagate IronWolf 6TB Internal HDD,Storage,309.35,160320,Capacity: 6TB,Connection Type: SATA3,Read/Write Speed: 5400RPM,Form Factor: 3.5 inch
+WD 1TB Internal HDD,Storage,74.75,040612,Capacity: 1TB,Connection Type: SATA3,Read/Write Speed: 7200RPM,Form Factor: 3.5 inch
+WD 8TB Red Plus Internal HDD,Storage,520.95,240315,Capacity: 8TB,Connection Type: SATA3,Read/Write Speed: 5400RPM,Form Factor: 3.5 inch
